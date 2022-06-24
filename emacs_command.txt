@@ -1,0 +1,12 @@
+|1) Close the emacs  | c-x, c-c |
+|2) Quit partial entered Command | c-g |
+|3) To view next screen(scroll) | c-v | 			
+|4) TO move back screen (scrollup) | m-v |
+|5) Clear screen and move to center | c-l |
+|6) move previous line	 | c-p |
+|7) move to next line	 | c-n |
+|8) move to forword	 | c-f |
+|9) move to backward	 | c-b |
+|10)move forward faster by word | m-f | 	
+|11)move backward faster by word| m-b |     
+
